@@ -1,0 +1,12 @@
+com\expense\mvc\ExpenseApplication.class
+com\expense\mvc\handler\UserAuthenticationSuccessHandler.class
+com\expense\mvc\repository\ExpenseRepository.class
+com\expense\mvc\config\UserSecurityConfiguration.class
+com\expense\mvc\model\Expense.class
+com\expense\mvc\model\User.class
+com\expense\mvc\controller\UserController.class
+com\expense\mvc\repository\CategoryRepository.class
+com\expense\mvc\controller\CategoryController.class
+com\expense\mvc\model\Category.class
+com\expense\mvc\controller\ExpenseController.class
+com\expense\mvc\repository\UserRepository.class
